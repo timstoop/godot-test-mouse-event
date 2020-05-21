@@ -10,6 +10,7 @@ script = ExtResource( 2 )
 
 [node name="KinematicBody2D" type="KinematicBody2D" parent="."]
 position = Vector2( 468, 285 )
+input_pickable = true
 __meta__ = {
 "_edit_group_": true
 }
